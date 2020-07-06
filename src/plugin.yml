@@ -1,0 +1,9 @@
+main: com.vhbob.soulbound.SoulboundPlugin
+name: Soulbound
+version: 1.0
+author: vhbob
+description: Soulbind items!
+commands:
+  soulbind:
+    description: soulbind an item
+    permission: soulbind.use
